@@ -1,0 +1,9 @@
+{
+    "name":"ausger/eucookie",
+    "license": "GPLv3",
+    "type": "magento-module",
+    "description":"EU compliant Cookie",
+    "require": {
+        "magento-hackathon/magento-composer-installer":"*"
+    }
+}

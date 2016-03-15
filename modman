@@ -1,0 +1,10 @@
+app/code/local/Creare/Eucookielaw/etc/adminhtml.xml		                    app/code/local/Creare/Eucookielaw/etc/adminhtml.xml
+app/code/local/Creare/Eucookielaw/etc/config.xml		                    app/code/local/Creare/Eucookielaw/etc/config.xml
+app/code/local/Creare/Eucookielaw/etc/system.xml		                    app/code/local/Creare/Eucookielaw/etc/system.xml
+
+app/design/frontend/base/default/layout/eucookielaw.xml                     app/design/frontend/base/default/layout/eucookielaw.xml
+app/design/frontend/base/default/template/eucookielaw/js.phtml              app/design/frontend/base/default/template/eucookielaw/js.phtml
+
+app/etc/modules/Creare_Eucookielaw.xml                                      app/etc/modules/Creare_Eucookielaw.xml
+
+skin/frontend/base/default/js/eucookielaw.js                                skin/frontend/base/default/js/eucookielaw.js
